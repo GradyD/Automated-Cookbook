@@ -1,1 +1,15 @@
 # Automated-Cookbook
+
+## Platform Requirements
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
