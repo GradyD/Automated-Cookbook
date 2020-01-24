@@ -5,6 +5,7 @@
 - [ ] Category for recipies
 - [ ] Take recipies and display on calendar
 - [ ] Pull from recipies and generate shopping list
+- [ ] Group/cluster ingredients (budget shopping)
 - [ ] Simple rating system
 - [ ] User management
 - [ ] Pinterest integration
