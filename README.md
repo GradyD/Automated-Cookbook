@@ -12,3 +12,7 @@
 - [ ] Hybrid recipies (pulling parts from multiple recipies and making 1 new)
 - [ ] Auto adjust eating/cooking habits (caloric goals, less sugar, less salt
 - [ ] Search
+- [ ] Picture import
+
+
+#### Extra Goodies
